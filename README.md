@@ -14,7 +14,7 @@ I love transforming raw data into meaningful insights that drive business decisi
 
 - 👩‍💻✔️ I’ve done the project [**Job & Career Insights**](https://github.com/AnkitaWasekar2/Job-Career-Insights)  
 - 🔭 I’m currently working on [**Car Rental**](https://github.com/AnkitaWasekar2/Car-Rental-Analysis)  
-- 📄 [**Know about my experiences**](https://drive.google.com/file/d/1QSQANAh_pgSpywAS0Lf6j3W1PR8_PEZi/view?usp=sharing)
+- 📄 [**Know about my experiences**](https://drive.google.com/file/d/13vtEhNjIJ-qxr1dXhOiC60SJfE5Rhd9l/view?usp=sharing)
 
 ---
 
